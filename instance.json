@@ -1,0 +1,1458 @@
+{
+  "schema_version": 1,
+  "name": "OffDayOpt constructed curriculum benchmark",
+  "provenance": {
+    "modules": "User supplied",
+    "cohort_off_days": "User supplied; DS2 rule inherited by both sections",
+    "provisional_calendars": [
+      "CS3",
+      "SE3SQA"
+    ],
+    "resources_and_hours": "Synthetic assumptions, not institutional records"
+  },
+  "calendar": {
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "day_start": "09:30",
+    "day_end": "15:30",
+    "breaks": [
+      [
+        "12:30",
+        "13:30"
+      ]
+    ],
+    "slots": [
+      [
+        "09:30",
+        "10:30"
+      ],
+      [
+        "10:30",
+        "11:30"
+      ],
+      [
+        "11:30",
+        "12:30"
+      ],
+      [
+        "13:30",
+        "14:30"
+      ],
+      [
+        "14:30",
+        "15:30"
+      ]
+    ]
+  },
+  "modules": {
+    "CSCU9P1": "Introduction to Computing Science",
+    "MATU9S1": "Discrete Structures",
+    "MGTU7S1": "The Global Business Environment: An Introduction",
+    "CSCU9A3": "Data Structures, Objects and Algorithms",
+    "CSCU9B3": "Database Principles and Applications",
+    "CSCU9M3": "Scripting for Data Science",
+    "CSCU9P5": "Software Engineering I",
+    "CSCU9M5": "Introduction to Machine Learning",
+    "CSCU9X5": "UX Design",
+    "CSCU9Z7": "Computing Science Project",
+    "CSCU9Y7": "Computer Security and Networks",
+    "CSCU9YW": "Web Services",
+    "CSCU9YH": "Mobile App Development",
+    "CSCU9P2": "Programming and User Interface Design",
+    "CSCU9E5": "Software Engineering I",
+    "CSCU9DA": "Data Science Applications",
+    "CSCU9YE": "Artificial Intelligence",
+    "CSCU9YX": "Cyber Security"
+  },
+  "cohorts": [
+    {
+      "id": "CS2",
+      "programme": "Computer Science",
+      "year": 2,
+      "section": "",
+      "size": 37,
+      "off_days": [
+        "Thursday",
+        "Saturday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "SE1",
+      "programme": "Software Engineering",
+      "year": 1,
+      "section": "",
+      "size": 36,
+      "off_days": [
+        "Wednesday",
+        "Friday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "DS2A",
+      "programme": "Data Science and Artificial Intelligence",
+      "year": 2,
+      "section": "A",
+      "size": 27,
+      "off_days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "DS2B",
+      "programme": "Data Science and Artificial Intelligence",
+      "year": 2,
+      "section": "B",
+      "size": 29,
+      "off_days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "SE2A",
+      "programme": "Software Engineering",
+      "year": 2,
+      "section": "A",
+      "size": 36,
+      "off_days": [
+        "Monday",
+        "Thursday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "SE3B",
+      "programme": "Software Engineering",
+      "year": 3,
+      "section": "B",
+      "size": 25,
+      "off_days": [
+        "Tuesday",
+        "Saturday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "SE3A",
+      "programme": "Software Engineering",
+      "year": 3,
+      "section": "A",
+      "size": 37,
+      "off_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "DS3A",
+      "programme": "Data Science and Artificial Intelligence",
+      "year": 3,
+      "section": "A",
+      "size": 31,
+      "off_days": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "DS3B",
+      "programme": "Data Science and Artificial Intelligence",
+      "year": 3,
+      "section": "B",
+      "size": 32,
+      "off_days": [
+        "Monday",
+        "Tuesday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "CS4",
+      "programme": "Computer Science",
+      "year": 4,
+      "section": "",
+      "size": 32,
+      "off_days": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "SE4",
+      "programme": "Software Engineering",
+      "year": 4,
+      "section": "",
+      "size": 36,
+      "off_days": [
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "SE2B",
+      "programme": "Software Engineering",
+      "year": 2,
+      "section": "B",
+      "size": 25,
+      "off_days": [
+        "Thursday",
+        "Saturday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "SE3C",
+      "programme": "Software Engineering",
+      "year": 3,
+      "section": "C",
+      "size": 37,
+      "off_days": [
+        "Thursday",
+        "Friday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "DS4",
+      "programme": "Data Science and Artificial Intelligence",
+      "year": 4,
+      "section": "",
+      "size": 27,
+      "off_days": [
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "provisional": false
+    },
+    {
+      "id": "CS3",
+      "programme": "Computer Science",
+      "year": 3,
+      "section": "",
+      "size": 38,
+      "off_days": [],
+      "provisional": true
+    },
+    {
+      "id": "SE3SQA",
+      "programme": "Software Engineering",
+      "year": 3,
+      "section": "SQA",
+      "size": 24,
+      "off_days": [],
+      "provisional": true
+    }
+  ],
+  "lecturers": [
+    {
+      "id": "T01",
+      "module_code": "CSCU9A3",
+      "unavailable": []
+    },
+    {
+      "id": "T02",
+      "module_code": "CSCU9B3",
+      "unavailable": []
+    },
+    {
+      "id": "T03",
+      "module_code": "CSCU9DA",
+      "unavailable": []
+    },
+    {
+      "id": "T04",
+      "module_code": "CSCU9E5",
+      "unavailable": []
+    },
+    {
+      "id": "T05",
+      "module_code": "CSCU9M3",
+      "unavailable": []
+    },
+    {
+      "id": "T06",
+      "module_code": "CSCU9M5",
+      "unavailable": []
+    },
+    {
+      "id": "T07",
+      "module_code": "CSCU9P1",
+      "unavailable": []
+    },
+    {
+      "id": "T08",
+      "module_code": "CSCU9P2",
+      "unavailable": []
+    },
+    {
+      "id": "T09",
+      "module_code": "CSCU9P5",
+      "unavailable": []
+    },
+    {
+      "id": "T10",
+      "module_code": "CSCU9X5",
+      "unavailable": []
+    },
+    {
+      "id": "T11",
+      "module_code": "CSCU9Y7",
+      "unavailable": []
+    },
+    {
+      "id": "T12",
+      "module_code": "CSCU9YE",
+      "unavailable": []
+    },
+    {
+      "id": "T13",
+      "module_code": "CSCU9YH",
+      "unavailable": []
+    },
+    {
+      "id": "T14",
+      "module_code": "CSCU9YW",
+      "unavailable": []
+    },
+    {
+      "id": "T15",
+      "module_code": "CSCU9YX",
+      "unavailable": []
+    },
+    {
+      "id": "T16",
+      "module_code": "CSCU9Z7",
+      "unavailable": []
+    },
+    {
+      "id": "T17",
+      "module_code": "MATU9S1",
+      "unavailable": []
+    },
+    {
+      "id": "T18",
+      "module_code": "MGTU7S1",
+      "unavailable": []
+    }
+  ],
+  "rooms": [
+    {
+      "id": "R1",
+      "type": "Lecture",
+      "capacity": 45,
+      "unavailable": []
+    },
+    {
+      "id": "R2",
+      "type": "Lecture",
+      "capacity": 45,
+      "unavailable": []
+    },
+    {
+      "id": "R3",
+      "type": "Lecture",
+      "capacity": 45,
+      "unavailable": []
+    },
+    {
+      "id": "R4",
+      "type": "Lecture",
+      "capacity": 45,
+      "unavailable": []
+    },
+    {
+      "id": "R5",
+      "type": "Lecture",
+      "capacity": 45,
+      "unavailable": []
+    },
+    {
+      "id": "LAB1",
+      "type": "Lab",
+      "capacity": 40,
+      "unavailable": []
+    },
+    {
+      "id": "LAB2",
+      "type": "Lab",
+      "capacity": 40,
+      "unavailable": []
+    },
+    {
+      "id": "LAB3",
+      "type": "Lab",
+      "capacity": 40,
+      "unavailable": []
+    }
+  ],
+  "events": [
+    {
+      "id": "CS2_CSCU9P1_1",
+      "cohort": "CS2",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS2_CSCU9P1_2",
+      "cohort": "CS2",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS2_CSCU9P1_3",
+      "cohort": "CS2",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lab"
+    },
+    {
+      "id": "CS2_CSCU9P2_1",
+      "cohort": "CS2",
+      "module": "CSCU9P2",
+      "lecturer": "T08",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS2_CSCU9P2_2",
+      "cohort": "CS2",
+      "module": "CSCU9P2",
+      "lecturer": "T08",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS2_CSCU9P2_3",
+      "cohort": "CS2",
+      "module": "CSCU9P2",
+      "lecturer": "T08",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE1_CSCU9P1_1",
+      "cohort": "SE1",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE1_CSCU9P1_2",
+      "cohort": "SE1",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE1_CSCU9P1_3",
+      "cohort": "SE1",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE1_MATU9S1_1",
+      "cohort": "SE1",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE1_MATU9S1_2",
+      "cohort": "SE1",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE1_MATU9S1_3",
+      "cohort": "SE1",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE1_MGTU7S1_1",
+      "cohort": "SE1",
+      "module": "MGTU7S1",
+      "lecturer": "T18",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE1_MGTU7S1_2",
+      "cohort": "SE1",
+      "module": "MGTU7S1",
+      "lecturer": "T18",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE1_MGTU7S1_3",
+      "cohort": "SE1",
+      "module": "MGTU7S1",
+      "lecturer": "T18",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_CSCU9P1_1",
+      "cohort": "DS2A",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_CSCU9P1_2",
+      "cohort": "DS2A",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_CSCU9P1_3",
+      "cohort": "DS2A",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS2A_MATU9S1_1",
+      "cohort": "DS2A",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_MATU9S1_2",
+      "cohort": "DS2A",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_MATU9S1_3",
+      "cohort": "DS2A",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_CSCU9M3_1",
+      "cohort": "DS2A",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_CSCU9M3_2",
+      "cohort": "DS2A",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2A_CSCU9M3_3",
+      "cohort": "DS2A",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS2B_CSCU9P1_1",
+      "cohort": "DS2B",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2B_CSCU9P1_2",
+      "cohort": "DS2B",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2B_CSCU9P1_3",
+      "cohort": "DS2B",
+      "module": "CSCU9P1",
+      "lecturer": "T07",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS2B_MATU9S1_1",
+      "cohort": "DS2B",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2B_MATU9S1_2",
+      "cohort": "DS2B",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2B_MATU9S1_3",
+      "cohort": "DS2B",
+      "module": "MATU9S1",
+      "lecturer": "T17",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2B_CSCU9M3_1",
+      "cohort": "DS2B",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2B_CSCU9M3_2",
+      "cohort": "DS2B",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS2B_CSCU9M3_3",
+      "cohort": "DS2B",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE2A_CSCU9A3_1",
+      "cohort": "SE2A",
+      "module": "CSCU9A3",
+      "lecturer": "T01",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2A_CSCU9A3_2",
+      "cohort": "SE2A",
+      "module": "CSCU9A3",
+      "lecturer": "T01",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2A_CSCU9A3_3",
+      "cohort": "SE2A",
+      "module": "CSCU9A3",
+      "lecturer": "T01",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE2A_CSCU9B3_1",
+      "cohort": "SE2A",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2A_CSCU9B3_2",
+      "cohort": "SE2A",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2A_CSCU9B3_3",
+      "cohort": "SE2A",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE2A_CSCU9M3_1",
+      "cohort": "SE2A",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2A_CSCU9M3_2",
+      "cohort": "SE2A",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2A_CSCU9M3_3",
+      "cohort": "SE2A",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3B_CSCU9P5_1",
+      "cohort": "SE3B",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3B_CSCU9P5_2",
+      "cohort": "SE3B",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3B_CSCU9P5_3",
+      "cohort": "SE3B",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3B_CSCU9M5_1",
+      "cohort": "SE3B",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3B_CSCU9M5_2",
+      "cohort": "SE3B",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3B_CSCU9M5_3",
+      "cohort": "SE3B",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3B_CSCU9X5_1",
+      "cohort": "SE3B",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3B_CSCU9X5_2",
+      "cohort": "SE3B",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3B_CSCU9X5_3",
+      "cohort": "SE3B",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3A_CSCU9P5_1",
+      "cohort": "SE3A",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3A_CSCU9P5_2",
+      "cohort": "SE3A",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3A_CSCU9P5_3",
+      "cohort": "SE3A",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3A_CSCU9M5_1",
+      "cohort": "SE3A",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3A_CSCU9M5_2",
+      "cohort": "SE3A",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3A_CSCU9M5_3",
+      "cohort": "SE3A",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3A_CSCU9X5_1",
+      "cohort": "SE3A",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3A_CSCU9X5_2",
+      "cohort": "SE3A",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3A_CSCU9X5_3",
+      "cohort": "SE3A",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS3A_CSCU9B3_1",
+      "cohort": "DS3A",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3A_CSCU9B3_2",
+      "cohort": "DS3A",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3A_CSCU9B3_3",
+      "cohort": "DS3A",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS3A_CSCU9M5_1",
+      "cohort": "DS3A",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3A_CSCU9M5_2",
+      "cohort": "DS3A",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3A_CSCU9M5_3",
+      "cohort": "DS3A",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS3A_CSCU9X5_1",
+      "cohort": "DS3A",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3A_CSCU9X5_2",
+      "cohort": "DS3A",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3A_CSCU9X5_3",
+      "cohort": "DS3A",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS3B_CSCU9B3_1",
+      "cohort": "DS3B",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3B_CSCU9B3_2",
+      "cohort": "DS3B",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3B_CSCU9B3_3",
+      "cohort": "DS3B",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS3B_CSCU9M5_1",
+      "cohort": "DS3B",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3B_CSCU9M5_2",
+      "cohort": "DS3B",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3B_CSCU9M5_3",
+      "cohort": "DS3B",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS3B_CSCU9X5_1",
+      "cohort": "DS3B",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3B_CSCU9X5_2",
+      "cohort": "DS3B",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS3B_CSCU9X5_3",
+      "cohort": "DS3B",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lab"
+    },
+    {
+      "id": "CS4_CSCU9Z7_1",
+      "cohort": "CS4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9Z7_2",
+      "cohort": "CS4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9Z7_3",
+      "cohort": "CS4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9Y7_1",
+      "cohort": "CS4",
+      "module": "CSCU9Y7",
+      "lecturer": "T11",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9Y7_2",
+      "cohort": "CS4",
+      "module": "CSCU9Y7",
+      "lecturer": "T11",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9Y7_3",
+      "cohort": "CS4",
+      "module": "CSCU9Y7",
+      "lecturer": "T11",
+      "room_type": "Lab"
+    },
+    {
+      "id": "CS4_CSCU9YW_1",
+      "cohort": "CS4",
+      "module": "CSCU9YW",
+      "lecturer": "T14",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9YW_2",
+      "cohort": "CS4",
+      "module": "CSCU9YW",
+      "lecturer": "T14",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9YW_3",
+      "cohort": "CS4",
+      "module": "CSCU9YW",
+      "lecturer": "T14",
+      "room_type": "Lab"
+    },
+    {
+      "id": "CS4_CSCU9YH_1",
+      "cohort": "CS4",
+      "module": "CSCU9YH",
+      "lecturer": "T13",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9YH_2",
+      "cohort": "CS4",
+      "module": "CSCU9YH",
+      "lecturer": "T13",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS4_CSCU9YH_3",
+      "cohort": "CS4",
+      "module": "CSCU9YH",
+      "lecturer": "T13",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE4_CSCU9Z7_1",
+      "cohort": "SE4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9Z7_2",
+      "cohort": "SE4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9Z7_3",
+      "cohort": "SE4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9Y7_1",
+      "cohort": "SE4",
+      "module": "CSCU9Y7",
+      "lecturer": "T11",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9Y7_2",
+      "cohort": "SE4",
+      "module": "CSCU9Y7",
+      "lecturer": "T11",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9Y7_3",
+      "cohort": "SE4",
+      "module": "CSCU9Y7",
+      "lecturer": "T11",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE4_CSCU9YW_1",
+      "cohort": "SE4",
+      "module": "CSCU9YW",
+      "lecturer": "T14",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9YW_2",
+      "cohort": "SE4",
+      "module": "CSCU9YW",
+      "lecturer": "T14",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9YW_3",
+      "cohort": "SE4",
+      "module": "CSCU9YW",
+      "lecturer": "T14",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE4_CSCU9YH_1",
+      "cohort": "SE4",
+      "module": "CSCU9YH",
+      "lecturer": "T13",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9YH_2",
+      "cohort": "SE4",
+      "module": "CSCU9YH",
+      "lecturer": "T13",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE4_CSCU9YH_3",
+      "cohort": "SE4",
+      "module": "CSCU9YH",
+      "lecturer": "T13",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE2B_CSCU9A3_1",
+      "cohort": "SE2B",
+      "module": "CSCU9A3",
+      "lecturer": "T01",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2B_CSCU9A3_2",
+      "cohort": "SE2B",
+      "module": "CSCU9A3",
+      "lecturer": "T01",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2B_CSCU9A3_3",
+      "cohort": "SE2B",
+      "module": "CSCU9A3",
+      "lecturer": "T01",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE2B_CSCU9B3_1",
+      "cohort": "SE2B",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2B_CSCU9B3_2",
+      "cohort": "SE2B",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2B_CSCU9B3_3",
+      "cohort": "SE2B",
+      "module": "CSCU9B3",
+      "lecturer": "T02",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE2B_CSCU9M3_1",
+      "cohort": "SE2B",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2B_CSCU9M3_2",
+      "cohort": "SE2B",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE2B_CSCU9M3_3",
+      "cohort": "SE2B",
+      "module": "CSCU9M3",
+      "lecturer": "T05",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3C_CSCU9P5_1",
+      "cohort": "SE3C",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3C_CSCU9P5_2",
+      "cohort": "SE3C",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3C_CSCU9P5_3",
+      "cohort": "SE3C",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3C_CSCU9M5_1",
+      "cohort": "SE3C",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3C_CSCU9M5_2",
+      "cohort": "SE3C",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3C_CSCU9M5_3",
+      "cohort": "SE3C",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3C_CSCU9X5_1",
+      "cohort": "SE3C",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3C_CSCU9X5_2",
+      "cohort": "SE3C",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3C_CSCU9X5_3",
+      "cohort": "SE3C",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS4_CSCU9Z7_1",
+      "cohort": "DS4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9Z7_2",
+      "cohort": "DS4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9Z7_3",
+      "cohort": "DS4",
+      "module": "CSCU9Z7",
+      "lecturer": "T16",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9DA_1",
+      "cohort": "DS4",
+      "module": "CSCU9DA",
+      "lecturer": "T03",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9DA_2",
+      "cohort": "DS4",
+      "module": "CSCU9DA",
+      "lecturer": "T03",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9DA_3",
+      "cohort": "DS4",
+      "module": "CSCU9DA",
+      "lecturer": "T03",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS4_CSCU9YE_1",
+      "cohort": "DS4",
+      "module": "CSCU9YE",
+      "lecturer": "T12",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9YE_2",
+      "cohort": "DS4",
+      "module": "CSCU9YE",
+      "lecturer": "T12",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9YE_3",
+      "cohort": "DS4",
+      "module": "CSCU9YE",
+      "lecturer": "T12",
+      "room_type": "Lab"
+    },
+    {
+      "id": "DS4_CSCU9YX_1",
+      "cohort": "DS4",
+      "module": "CSCU9YX",
+      "lecturer": "T15",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9YX_2",
+      "cohort": "DS4",
+      "module": "CSCU9YX",
+      "lecturer": "T15",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "DS4_CSCU9YX_3",
+      "cohort": "DS4",
+      "module": "CSCU9YX",
+      "lecturer": "T15",
+      "room_type": "Lab"
+    },
+    {
+      "id": "CS3_CSCU9E5_1",
+      "cohort": "CS3",
+      "module": "CSCU9E5",
+      "lecturer": "T04",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS3_CSCU9E5_2",
+      "cohort": "CS3",
+      "module": "CSCU9E5",
+      "lecturer": "T04",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS3_CSCU9E5_3",
+      "cohort": "CS3",
+      "module": "CSCU9E5",
+      "lecturer": "T04",
+      "room_type": "Lab"
+    },
+    {
+      "id": "CS3_CSCU9M5_1",
+      "cohort": "CS3",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS3_CSCU9M5_2",
+      "cohort": "CS3",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS3_CSCU9M5_3",
+      "cohort": "CS3",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lab"
+    },
+    {
+      "id": "CS3_CSCU9X5_1",
+      "cohort": "CS3",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS3_CSCU9X5_2",
+      "cohort": "CS3",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "CS3_CSCU9X5_3",
+      "cohort": "CS3",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3SQA_CSCU9P5_1",
+      "cohort": "SE3SQA",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3SQA_CSCU9P5_2",
+      "cohort": "SE3SQA",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3SQA_CSCU9P5_3",
+      "cohort": "SE3SQA",
+      "module": "CSCU9P5",
+      "lecturer": "T09",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3SQA_CSCU9M5_1",
+      "cohort": "SE3SQA",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3SQA_CSCU9M5_2",
+      "cohort": "SE3SQA",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3SQA_CSCU9M5_3",
+      "cohort": "SE3SQA",
+      "module": "CSCU9M5",
+      "lecturer": "T06",
+      "room_type": "Lab"
+    },
+    {
+      "id": "SE3SQA_CSCU9X5_1",
+      "cohort": "SE3SQA",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3SQA_CSCU9X5_2",
+      "cohort": "SE3SQA",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lecture"
+    },
+    {
+      "id": "SE3SQA_CSCU9X5_3",
+      "cohort": "SE3SQA",
+      "module": "CSCU9X5",
+      "lecturer": "T10",
+      "room_type": "Lab"
+    }
+  ]
+}
