@@ -1,0 +1,15 @@
+{
+  "solution": {
+    "valid": true,
+    "fault_counts": {},
+    "events_checked": 150
+  },
+  "hard": 0,
+  "soft": 113,
+  "checks": {
+    "weekly_off_mutation_rejected": true,
+    "incorrect_room_type_rejected": true,
+    "clash_mutation_rejected": true,
+    "every_offering_has_three_meetings": true
+  }
+}

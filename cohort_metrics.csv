@@ -1,0 +1,17 @@
+﻿cohort,hours,active_days,max_daily_hours,idle_teaching_hours,synthetic_students,student_idle_hours
+CS2,6,4,2,0,37,0
+SE1,9,3,4,1,36,36
+DS2A,9,4,3,1,27,27
+DS2B,9,4,4,1,29,29
+SE2A,9,3,5,0,36,0
+SE3B,9,4,4,2,25,50
+SE3A,9,4,4,1,37,37
+DS3A,9,4,4,0,31,0
+DS3B,9,3,5,1,32,32
+CS4,12,3,4,0,32,0
+SE4,12,3,5,2,36,72
+SE2B,9,4,4,0,25,0
+SE3C,9,4,3,2,37,74
+DS4,12,3,4,1,27,27
+CS3,9,4,3,1,38,38
+SE3SQA,9,6,3,0,24,0

@@ -1,0 +1,62 @@
+[
+  {
+    "method": "Random repair",
+    "runs": 30,
+    "feasible": 30,
+    "median_hard": 0.0,
+    "median_evaluations": 353.0,
+    "median_probes": 158576.0,
+    "median_elapsed": 1.0012739895000777,
+    "min_soft": 130,
+    "median_soft": 151.0,
+    "q1_soft": 146.5,
+    "q3_soft": 156.5,
+    "median_ci_low": 148.5,
+    "median_ci_high": 154.5
+  },
+  {
+    "method": "GA penalty",
+    "runs": 30,
+    "feasible": 1,
+    "median_hard": 3.0,
+    "median_evaluations": 4016.5,
+    "median_probes": 0.0,
+    "median_elapsed": 1.0001251129999673,
+    "min_soft": 117,
+    "median_soft": 117.0,
+    "q1_soft": 117.0,
+    "q3_soft": 117.0,
+    "median_ci_low": null,
+    "median_ci_high": null
+  },
+  {
+    "method": "GA Lamarckian",
+    "runs": 30,
+    "feasible": 30,
+    "median_hard": 0.0,
+    "median_evaluations": 356.5,
+    "median_probes": 118536.0,
+    "median_elapsed": 1.0013175675001094,
+    "min_soft": 113,
+    "median_soft": 135.5,
+    "q1_soft": 128.5,
+    "q3_soft": 140.75,
+    "median_ci_low": 132.5,
+    "median_ci_high": 139.0
+  },
+  {
+    "method": "GA Baldwinian",
+    "runs": 30,
+    "feasible": 30,
+    "median_hard": 0.0,
+    "median_evaluations": 353.5,
+    "median_probes": 158925.5,
+    "median_elapsed": 1.0010127769999144,
+    "min_soft": 138,
+    "median_soft": 149.5,
+    "q1_soft": 143.5,
+    "q3_soft": 152.0,
+    "median_ci_low": 145.0,
+    "median_ci_high": 152.0
+  }
+]

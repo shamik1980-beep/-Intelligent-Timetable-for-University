@@ -1,0 +1,19 @@
+﻿teacher_id,module_code,assumed_weekly_contact_hours,availability,source
+T01,CSCU9A3,6,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T02,CSCU9B3,12,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T03,CSCU9DA,3,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T04,CSCU9E5,3,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T05,CSCU9M3,12,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T06,CSCU9M5,21,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T07,CSCU9P1,12,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T08,CSCU9P2,3,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T09,CSCU9P5,12,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T10,CSCU9X5,21,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T11,CSCU9Y7,6,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T12,CSCU9YE,3,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T13,CSCU9YH,6,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T14,CSCU9YW,6,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T15,CSCU9YX,3,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T16,CSCU9Z7,9,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T17,MATU9S1,9,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code
+T18,MGTU7S1,3,Monday to Saturday all five teaching slots,Synthetic one lecturer per distinct module code

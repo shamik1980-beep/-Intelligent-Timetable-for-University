@@ -1,0 +1,151 @@
+﻿id,group,module,module_name,teacher,kind,teacher_id
+CS2_CSCU9P1_1,0,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+CS2_CSCU9P1_2,0,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+CS2_CSCU9P1_3,0,CSCU9P1,Introduction to Computing Science,6,Lab,T07
+CS2_CSCU9P2_1,0,CSCU9P2,Programming and User Interface Design,7,Lecture,T08
+CS2_CSCU9P2_2,0,CSCU9P2,Programming and User Interface Design,7,Lecture,T08
+CS2_CSCU9P2_3,0,CSCU9P2,Programming and User Interface Design,7,Lab,T08
+SE1_CSCU9P1_1,1,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+SE1_CSCU9P1_2,1,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+SE1_CSCU9P1_3,1,CSCU9P1,Introduction to Computing Science,6,Lab,T07
+SE1_MATU9S1_1,1,MATU9S1,Discrete Structures,16,Lecture,T17
+SE1_MATU9S1_2,1,MATU9S1,Discrete Structures,16,Lecture,T17
+SE1_MATU9S1_3,1,MATU9S1,Discrete Structures,16,Lecture,T17
+SE1_MGTU7S1_1,1,MGTU7S1,The Global Business Environment: An Introduction,17,Lecture,T18
+SE1_MGTU7S1_2,1,MGTU7S1,The Global Business Environment: An Introduction,17,Lecture,T18
+SE1_MGTU7S1_3,1,MGTU7S1,The Global Business Environment: An Introduction,17,Lecture,T18
+DS2A_CSCU9P1_1,2,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+DS2A_CSCU9P1_2,2,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+DS2A_CSCU9P1_3,2,CSCU9P1,Introduction to Computing Science,6,Lab,T07
+DS2A_MATU9S1_1,2,MATU9S1,Discrete Structures,16,Lecture,T17
+DS2A_MATU9S1_2,2,MATU9S1,Discrete Structures,16,Lecture,T17
+DS2A_MATU9S1_3,2,MATU9S1,Discrete Structures,16,Lecture,T17
+DS2A_CSCU9M3_1,2,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+DS2A_CSCU9M3_2,2,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+DS2A_CSCU9M3_3,2,CSCU9M3,Scripting for Data Science,4,Lab,T05
+DS2B_CSCU9P1_1,3,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+DS2B_CSCU9P1_2,3,CSCU9P1,Introduction to Computing Science,6,Lecture,T07
+DS2B_CSCU9P1_3,3,CSCU9P1,Introduction to Computing Science,6,Lab,T07
+DS2B_MATU9S1_1,3,MATU9S1,Discrete Structures,16,Lecture,T17
+DS2B_MATU9S1_2,3,MATU9S1,Discrete Structures,16,Lecture,T17
+DS2B_MATU9S1_3,3,MATU9S1,Discrete Structures,16,Lecture,T17
+DS2B_CSCU9M3_1,3,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+DS2B_CSCU9M3_2,3,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+DS2B_CSCU9M3_3,3,CSCU9M3,Scripting for Data Science,4,Lab,T05
+SE2A_CSCU9A3_1,4,CSCU9A3,"Data Structures, Objects and Algorithms",0,Lecture,T01
+SE2A_CSCU9A3_2,4,CSCU9A3,"Data Structures, Objects and Algorithms",0,Lecture,T01
+SE2A_CSCU9A3_3,4,CSCU9A3,"Data Structures, Objects and Algorithms",0,Lab,T01
+SE2A_CSCU9B3_1,4,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+SE2A_CSCU9B3_2,4,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+SE2A_CSCU9B3_3,4,CSCU9B3,Database Principles and Applications,1,Lab,T02
+SE2A_CSCU9M3_1,4,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+SE2A_CSCU9M3_2,4,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+SE2A_CSCU9M3_3,4,CSCU9M3,Scripting for Data Science,4,Lab,T05
+SE3B_CSCU9P5_1,5,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3B_CSCU9P5_2,5,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3B_CSCU9P5_3,5,CSCU9P5,Software Engineering I,8,Lab,T09
+SE3B_CSCU9M5_1,5,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3B_CSCU9M5_2,5,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3B_CSCU9M5_3,5,CSCU9M5,Introduction to Machine Learning,5,Lab,T06
+SE3B_CSCU9X5_1,5,CSCU9X5,UX Design,9,Lecture,T10
+SE3B_CSCU9X5_2,5,CSCU9X5,UX Design,9,Lecture,T10
+SE3B_CSCU9X5_3,5,CSCU9X5,UX Design,9,Lab,T10
+SE3A_CSCU9P5_1,6,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3A_CSCU9P5_2,6,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3A_CSCU9P5_3,6,CSCU9P5,Software Engineering I,8,Lab,T09
+SE3A_CSCU9M5_1,6,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3A_CSCU9M5_2,6,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3A_CSCU9M5_3,6,CSCU9M5,Introduction to Machine Learning,5,Lab,T06
+SE3A_CSCU9X5_1,6,CSCU9X5,UX Design,9,Lecture,T10
+SE3A_CSCU9X5_2,6,CSCU9X5,UX Design,9,Lecture,T10
+SE3A_CSCU9X5_3,6,CSCU9X5,UX Design,9,Lab,T10
+DS3A_CSCU9B3_1,7,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+DS3A_CSCU9B3_2,7,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+DS3A_CSCU9B3_3,7,CSCU9B3,Database Principles and Applications,1,Lab,T02
+DS3A_CSCU9M5_1,7,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+DS3A_CSCU9M5_2,7,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+DS3A_CSCU9M5_3,7,CSCU9M5,Introduction to Machine Learning,5,Lab,T06
+DS3A_CSCU9X5_1,7,CSCU9X5,UX Design,9,Lecture,T10
+DS3A_CSCU9X5_2,7,CSCU9X5,UX Design,9,Lecture,T10
+DS3A_CSCU9X5_3,7,CSCU9X5,UX Design,9,Lab,T10
+DS3B_CSCU9B3_1,8,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+DS3B_CSCU9B3_2,8,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+DS3B_CSCU9B3_3,8,CSCU9B3,Database Principles and Applications,1,Lab,T02
+DS3B_CSCU9M5_1,8,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+DS3B_CSCU9M5_2,8,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+DS3B_CSCU9M5_3,8,CSCU9M5,Introduction to Machine Learning,5,Lab,T06
+DS3B_CSCU9X5_1,8,CSCU9X5,UX Design,9,Lecture,T10
+DS3B_CSCU9X5_2,8,CSCU9X5,UX Design,9,Lecture,T10
+DS3B_CSCU9X5_3,8,CSCU9X5,UX Design,9,Lab,T10
+CS4_CSCU9Z7_1,9,CSCU9Z7,Computing Science Project,15,Lecture,T16
+CS4_CSCU9Z7_2,9,CSCU9Z7,Computing Science Project,15,Lecture,T16
+CS4_CSCU9Z7_3,9,CSCU9Z7,Computing Science Project,15,Lecture,T16
+CS4_CSCU9Y7_1,9,CSCU9Y7,Computer Security and Networks,10,Lecture,T11
+CS4_CSCU9Y7_2,9,CSCU9Y7,Computer Security and Networks,10,Lecture,T11
+CS4_CSCU9Y7_3,9,CSCU9Y7,Computer Security and Networks,10,Lab,T11
+CS4_CSCU9YW_1,9,CSCU9YW,Web Services,13,Lecture,T14
+CS4_CSCU9YW_2,9,CSCU9YW,Web Services,13,Lecture,T14
+CS4_CSCU9YW_3,9,CSCU9YW,Web Services,13,Lab,T14
+CS4_CSCU9YH_1,9,CSCU9YH,Mobile App Development,12,Lecture,T13
+CS4_CSCU9YH_2,9,CSCU9YH,Mobile App Development,12,Lecture,T13
+CS4_CSCU9YH_3,9,CSCU9YH,Mobile App Development,12,Lab,T13
+SE4_CSCU9Z7_1,10,CSCU9Z7,Computing Science Project,15,Lecture,T16
+SE4_CSCU9Z7_2,10,CSCU9Z7,Computing Science Project,15,Lecture,T16
+SE4_CSCU9Z7_3,10,CSCU9Z7,Computing Science Project,15,Lecture,T16
+SE4_CSCU9Y7_1,10,CSCU9Y7,Computer Security and Networks,10,Lecture,T11
+SE4_CSCU9Y7_2,10,CSCU9Y7,Computer Security and Networks,10,Lecture,T11
+SE4_CSCU9Y7_3,10,CSCU9Y7,Computer Security and Networks,10,Lab,T11
+SE4_CSCU9YW_1,10,CSCU9YW,Web Services,13,Lecture,T14
+SE4_CSCU9YW_2,10,CSCU9YW,Web Services,13,Lecture,T14
+SE4_CSCU9YW_3,10,CSCU9YW,Web Services,13,Lab,T14
+SE4_CSCU9YH_1,10,CSCU9YH,Mobile App Development,12,Lecture,T13
+SE4_CSCU9YH_2,10,CSCU9YH,Mobile App Development,12,Lecture,T13
+SE4_CSCU9YH_3,10,CSCU9YH,Mobile App Development,12,Lab,T13
+SE2B_CSCU9A3_1,11,CSCU9A3,"Data Structures, Objects and Algorithms",0,Lecture,T01
+SE2B_CSCU9A3_2,11,CSCU9A3,"Data Structures, Objects and Algorithms",0,Lecture,T01
+SE2B_CSCU9A3_3,11,CSCU9A3,"Data Structures, Objects and Algorithms",0,Lab,T01
+SE2B_CSCU9B3_1,11,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+SE2B_CSCU9B3_2,11,CSCU9B3,Database Principles and Applications,1,Lecture,T02
+SE2B_CSCU9B3_3,11,CSCU9B3,Database Principles and Applications,1,Lab,T02
+SE2B_CSCU9M3_1,11,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+SE2B_CSCU9M3_2,11,CSCU9M3,Scripting for Data Science,4,Lecture,T05
+SE2B_CSCU9M3_3,11,CSCU9M3,Scripting for Data Science,4,Lab,T05
+SE3C_CSCU9P5_1,12,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3C_CSCU9P5_2,12,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3C_CSCU9P5_3,12,CSCU9P5,Software Engineering I,8,Lab,T09
+SE3C_CSCU9M5_1,12,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3C_CSCU9M5_2,12,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3C_CSCU9M5_3,12,CSCU9M5,Introduction to Machine Learning,5,Lab,T06
+SE3C_CSCU9X5_1,12,CSCU9X5,UX Design,9,Lecture,T10
+SE3C_CSCU9X5_2,12,CSCU9X5,UX Design,9,Lecture,T10
+SE3C_CSCU9X5_3,12,CSCU9X5,UX Design,9,Lab,T10
+DS4_CSCU9Z7_1,13,CSCU9Z7,Computing Science Project,15,Lecture,T16
+DS4_CSCU9Z7_2,13,CSCU9Z7,Computing Science Project,15,Lecture,T16
+DS4_CSCU9Z7_3,13,CSCU9Z7,Computing Science Project,15,Lecture,T16
+DS4_CSCU9DA_1,13,CSCU9DA,Data Science Applications,2,Lecture,T03
+DS4_CSCU9DA_2,13,CSCU9DA,Data Science Applications,2,Lecture,T03
+DS4_CSCU9DA_3,13,CSCU9DA,Data Science Applications,2,Lab,T03
+DS4_CSCU9YE_1,13,CSCU9YE,Artificial Intelligence,11,Lecture,T12
+DS4_CSCU9YE_2,13,CSCU9YE,Artificial Intelligence,11,Lecture,T12
+DS4_CSCU9YE_3,13,CSCU9YE,Artificial Intelligence,11,Lab,T12
+DS4_CSCU9YX_1,13,CSCU9YX,Cyber Security,14,Lecture,T15
+DS4_CSCU9YX_2,13,CSCU9YX,Cyber Security,14,Lecture,T15
+DS4_CSCU9YX_3,13,CSCU9YX,Cyber Security,14,Lab,T15
+CS3_CSCU9E5_1,14,CSCU9E5,Software Engineering I,3,Lecture,T04
+CS3_CSCU9E5_2,14,CSCU9E5,Software Engineering I,3,Lecture,T04
+CS3_CSCU9E5_3,14,CSCU9E5,Software Engineering I,3,Lab,T04
+CS3_CSCU9M5_1,14,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+CS3_CSCU9M5_2,14,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+CS3_CSCU9M5_3,14,CSCU9M5,Introduction to Machine Learning,5,Lab,T06
+CS3_CSCU9X5_1,14,CSCU9X5,UX Design,9,Lecture,T10
+CS3_CSCU9X5_2,14,CSCU9X5,UX Design,9,Lecture,T10
+CS3_CSCU9X5_3,14,CSCU9X5,UX Design,9,Lab,T10
+SE3SQA_CSCU9P5_1,15,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3SQA_CSCU9P5_2,15,CSCU9P5,Software Engineering I,8,Lecture,T09
+SE3SQA_CSCU9P5_3,15,CSCU9P5,Software Engineering I,8,Lab,T09
+SE3SQA_CSCU9M5_1,15,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3SQA_CSCU9M5_2,15,CSCU9M5,Introduction to Machine Learning,5,Lecture,T06
+SE3SQA_CSCU9M5_3,15,CSCU9M5,Introduction to Machine Learning,5,Lab,T06
+SE3SQA_CSCU9X5_1,15,CSCU9X5,UX Design,9,Lecture,T10
+SE3SQA_CSCU9X5_2,15,CSCU9X5,UX Design,9,Lecture,T10
+SE3SQA_CSCU9X5_3,15,CSCU9X5,UX Design,9,Lab,T10

@@ -1,0 +1,7 @@
+﻿lecture_rooms,labs,status,feasible,runtime,message
+3,3,2,False,0.050676666000072146,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)
+4,1,2,False,0.03185959099937463,The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)
+4,2,0,True,0.05238185199959844,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+4,3,0,True,0.263799661000121,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+5,2,0,True,0.06594685799973377,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+5,3,0,True,0.036304555000242544,Optimization terminated successfully. (HiGHS Status 7: Optimal)

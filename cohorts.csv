@@ -1,0 +1,17 @@
+﻿cohort,programme,year,section,synthetic_students,weekly_off,calendar_source,available_hours,assumed_contact_hours,modules
+CS2,Computer Science,2,,37,Thursday;Saturday,User supplied,20,6,CSCU9P1;CSCU9P2
+SE1,Software Engineering,1,,36,Wednesday;Friday,User supplied,20,9,CSCU9P1;MATU9S1;MGTU7S1
+DS2A,Data Science and Artificial Intelligence,2,A,27,Tuesday;Friday,Inherited DS Year 2 rule,20,9,CSCU9P1;MATU9S1;CSCU9M3
+DS2B,Data Science and Artificial Intelligence,2,B,29,Tuesday;Friday,Inherited DS Year 2 rule,20,9,CSCU9P1;MATU9S1;CSCU9M3
+SE2A,Software Engineering,2,A,36,Monday;Thursday,User supplied,20,9,CSCU9A3;CSCU9B3;CSCU9M3
+SE3B,Software Engineering,3,B,25,Tuesday;Saturday,User supplied,20,9,CSCU9P5;CSCU9M5;CSCU9X5
+SE3A,Software Engineering,3,A,37,Tuesday;Thursday,User supplied,20,9,CSCU9P5;CSCU9M5;CSCU9X5
+DS3A,Data Science and Artificial Intelligence,3,A,31,Wednesday;Saturday,User supplied,20,9,CSCU9B3;CSCU9M5;CSCU9X5
+DS3B,Data Science and Artificial Intelligence,3,B,32,Monday;Tuesday,User supplied,20,9,CSCU9B3;CSCU9M5;CSCU9X5
+CS4,Computer Science,4,,32,Thursday;Friday;Saturday,User supplied,15,12,CSCU9Z7;CSCU9Y7;CSCU9YW;CSCU9YH
+SE4,Software Engineering,4,,36,Thursday;Friday;Saturday,User supplied,15,12,CSCU9Z7;CSCU9Y7;CSCU9YW;CSCU9YH
+SE2B,Software Engineering,2,B,25,Thursday;Saturday,User supplied,20,9,CSCU9A3;CSCU9B3;CSCU9M3
+SE3C,Software Engineering,3,C,37,Thursday;Friday,User supplied,20,9,CSCU9P5;CSCU9M5;CSCU9X5
+DS4,Data Science and Artificial Intelligence,4,,27,Tuesday;Wednesday;Friday,User supplied,15,12,CSCU9Z7;CSCU9DA;CSCU9YE;CSCU9YX
+CS3,Computer Science,3,,38,None provisionally,User approved provisional Monday Saturday,30,9,CSCU9E5;CSCU9M5;CSCU9X5
+SE3SQA,Software Engineering,3,SQA,24,None provisionally,User approved provisional Monday Saturday,30,9,CSCU9P5;CSCU9M5;CSCU9X5

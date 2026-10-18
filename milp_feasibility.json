@@ -1,0 +1,22 @@
+{
+  "status": 0,
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "runtime_seconds": 0.054369461000078445,
+  "variables": 3000,
+  "rows": 950,
+  "scipy": "1.17.0",
+  "purpose": "feasibility certificate only; no soft objective optimisation",
+  "validation": {
+    "valid": true,
+    "fault_counts": {},
+    "events_checked": 150
+  },
+  "hard": 0,
+  "soft": 148,
+  "detail": {
+    "gaps": 29,
+    "overload": 1,
+    "same_module_day": 31,
+    "room_instability": 28
+  }
+}
